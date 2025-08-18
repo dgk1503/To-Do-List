@@ -12,6 +12,9 @@ body{
     
 
 }
+.Icon{
+    color: white;
+}
 .heading-todo{
     display: block;
     height: 50px;
